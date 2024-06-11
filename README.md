@@ -1,5 +1,6 @@
 CodSoft Internship Repository
 Welcome to my CodSoft Internship repository! This repository contains the work I have completed as part of my internship at CodSoft. Below, you will find descriptions of the five tasks I have worked on during my time here, each located in its respective directory.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Table of Contents:
 
