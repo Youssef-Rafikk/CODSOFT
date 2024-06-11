@@ -57,9 +57,8 @@ Task_5.ipynb
 
 Description For this task:
 Create a machine learning model to detect fraudulent credit card transactions. Preprocess and normalize transaction data, address class imbalance, and split the dataset for training and testing. Train a classification algorithm (e.g., logistic regression or random forests) to classify transactions as fraudulent or genuine. Evaluate model performance using metrics like precision, recall, and F1-score, and explore techniques such as oversampling or undersampling to enhance results.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. Contributions are always welcome!
+
+
 
 Thank you for visiting my CodSoft Internship repository and special thanks for CodSoft for this huge opportunity. If you have any questions or suggestions, feel free to open an issue or contact me directly.
