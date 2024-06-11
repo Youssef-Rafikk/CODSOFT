@@ -60,5 +60,6 @@ Create a machine learning model to detect fraudulent credit card transactions. P
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Thank you for visiting my CodSoft Internship repository and special thanks for CodSoft for this huge opportunity. If you have any questions or suggestions, feel free to open an issue or contact me directly.
